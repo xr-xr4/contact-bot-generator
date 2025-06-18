@@ -1,0 +1,4 @@
+# Requirements for Telegram Contact Bot Generator
+# Developed by Ahmed Saoud (@xr_xr4) - https://xr-xr4.netlify.app
+
+pyTelegramBotAPI
